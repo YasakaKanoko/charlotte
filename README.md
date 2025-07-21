@@ -1,7 +1,5 @@
 # charlotte
 
-图床
-
 ## Get Started
 
 1. 下载 [PicGo](https://github.com/Molunerfinn/PicGo/releases)
@@ -15,5 +13,5 @@
 
 ## 测试
 
-- <https://cdn.jsdelivr.net/gh/YasakaKanoko/charlotte@main/post/1752060388.png>
-- <https://fastly.jsdelivr.net/gh/YasakaKanoko/charlotte@main/post/1752060388.png>
+- <https://cdn.jsdelivr.net/gh/YasakaKanoko/charlotte@main/post/1752917109.webp>
+- <https://fastly.jsdelivr.net/gh/YasakaKanoko/charlotte@main/post/1752917116.webp>
